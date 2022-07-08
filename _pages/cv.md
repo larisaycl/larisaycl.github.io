@@ -6,9 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[pdf](/files/larisa_cv.pdf)
-
-{% include base_path %}
+{% include base_path %}<a href="http://larisaycl.github.io/files/larisa_cv.pdf"><font size="4">pdf</font></a>
 
 Education
 ======
