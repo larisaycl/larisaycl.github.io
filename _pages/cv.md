@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[pdf](https://larisaycl.github.io/files/larisa_cv.pdf)
+[pdf](../files/larisa_cv.pdf)
 
 {% include base_path %}
 
