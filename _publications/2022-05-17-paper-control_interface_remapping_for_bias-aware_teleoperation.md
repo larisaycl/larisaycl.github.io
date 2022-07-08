@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/icorr2022bias
 excerpt: 'Creating a custom interface to assistive device control mapping based on the design of a user’s bias profile'
 date: 2022-05-17
-venue: 'ICORR 2022'
+venue: '' #'International Conference on Rehabilitation Robotics'
 paperurl: ''
 citation: ''
 ---
