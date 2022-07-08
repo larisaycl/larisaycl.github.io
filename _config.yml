@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US" 
-title                    : "Larisa Loke"
+locale                   : "en-US"
+title                    : "Larisa Loke"  
 title_separator          : "-"
 name                     : &name "Larisa Loke"
 description              : &description "PhD Student at Northwestern University"
