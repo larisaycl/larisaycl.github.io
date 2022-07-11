@@ -10,8 +10,9 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Mechanical Engineering, Nanyang Technological University (Singapore), Aug 2016 - Jul 2020
-* Ph.D. in Mechanical Engineering, Northwestern University, Sep 2020 - Present
+* Sep 2020 - Present: Ph.D. in Mechanical Engineering, Northwestern University
+* Aug 2016 - Jul 2020: B.Eng. in Mechanical Engineering, Nanyang Technological University (Singapore)
+
 
 Research experience
 ======
@@ -24,12 +25,12 @@ Research experience
   * Project focus: Detection and classification of rare traffic signs, by augmenting datasets with synthetic images to train deep learning models using Faster R-CNN and PyTorch
   <!-- * Supervisors: Dr John M. Dolan, Dr Christoph Mertz -->
 
-* Jan 2018 - Apr 2018: Undergraduate Research
+* Jan 2018 - Apr 2018: Undergraduate Researcher
   * Rehabilitation Research Institute of Singapore, Nanyang Technological University (Singapore)
   * Project focus: Solidworks CAD for force measuring platform, testing sensors for force measurement
   <!-- * Supervisor: Assoc Prof Ang Wei Tech -->
 
-* Aug 2017 - Nov 2017: Undergraduate Research
+* Aug 2017 - Nov 2017: Undergraduate Researcher
   * Robotics Research Center, Nanyang Technological University (Singapore)
   * Project focus: Arduino and bluetooth for wireless tilt angle data collection in an unstable balance board, used for balance assessment and training
   <!-- * Supervisor: Assoc Prof Ang Wei Tech -->
