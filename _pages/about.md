@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Larisa Loke (Yen Chin), and I am a Ph.D. student in Mechanical Engineering working under Dr Brenna D. Argall at [argallab](https://www.argallab.northwestern.edu/), Northwestern University in Evanston, IL USA. 
+My name is Larisa Loke (Yen Chin), and I am a Ph.D. student in Mechanical Engineering working under the supervision of Dr Brenna D. Argall at [argallab](https://www.argallab.northwestern.edu/), Northwestern University in Evanston, IL USA. 
 
 My research interests are in rehabilitation and assistive robotics, with a focus on the following topics: 
 * Formalizing design of human-robot interaction paradigms, allowing end users to specify their needs.
