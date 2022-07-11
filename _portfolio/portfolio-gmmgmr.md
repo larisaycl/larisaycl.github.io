@@ -9,4 +9,4 @@ This repo contains the Python code for the robot learning assisngment of CS/ME 4
 
 Some results from the model trained using this implementation:
 
-[]!(/images/gmmgmr.png)
+![](/images/gmmgmr.png)
