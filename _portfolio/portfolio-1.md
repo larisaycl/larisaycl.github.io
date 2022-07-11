@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "SequentialQP"
+excerpt: "Implementation of SQP in Python (from scratch)<br/><img src='/images/sqp.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project was completed in collaboration with [VicHenFel](https://github.com/VicHenFel). 
+
+## [SequentialQP](https://github.com/larisaycl/SeqQP)
+This repo contains the Python code for our final project of ME441 Engineering Optimization for Product Design and Manufacturing at Northwestern. For our project, we chose to implement Sequential Quadratic Programming in Python. We validated our SQP implementation by testing on benchmark optimization functions and compared results against SQP implementations in standard optimization packages such as Scipy and Isight.
