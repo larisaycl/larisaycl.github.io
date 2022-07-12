@@ -81,7 +81,7 @@ Nodes
 - `landmarks_node` in `landmarks.cpp` - circle fitting and classification
 - `nuslam_unknown_node` in `slam_unknown.cpp` - SLAM with unknown data association
 
-Demonstration SLAM with known data association
+Demonstration of SLAM with known data association
 - The robot was driven around in simulation such that all the landmarks were encountered during the run.
 - ground truth landmarks are shown in white
 - landmarks detected by the sensor are shown in red
@@ -99,10 +99,10 @@ Top view:
 Perspective view:        
 ![side_view](/images/portfolio-slam/side_view.png)
 
-<!-- ---
+---
 
-#### Slam with unknown data association
-The robot was driven around in simulation such that all the landmarks were encountered during the run.
+Demonstration of Slam with unknown data association
+- The robot was driven around in simulation such that all the landmarks were encountered during the run.
 - robot is driven at max linear speed 0.01m/s and max angular speed 0.1rad/s
 - ground truth landmarks are shown in white
 - landmarks detected by the sensor are shown in red
@@ -114,6 +114,3 @@ The robot was driven around in simulation such that all the landmarks were encou
 
 A screencast of the robot driving around in the environment is shown:
 ![unknown_data_assoc_demo1](/images/portfolio-slam/slam_unknown_demo1.gif)
-
-A screencast of the robot driving around in the environment is shown:
-![unknown_data_assoc_demo2](/images/portfolio-slam/slam_unknown_demo2.gif) -->
