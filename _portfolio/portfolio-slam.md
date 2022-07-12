@@ -21,7 +21,7 @@ This repository consists of several ROS packages.
 ### `rigid2d` - Rigid 2D transformation Library
 A library for handling transformations in SE(2), as well as handling odometry calculations for a differential drive robot. See [this document](/files/diff_drive.pdf) for derivations of equations used in the `diff_drive.cpp` library implementation file.
 
-#### Library implementation files 
+Library implementation files 
 - `rigid2d.cpp`
    - usage: include `rigid2d/rigid2d.hpp`
    - 2D rigid body transformations
@@ -29,7 +29,7 @@ A library for handling transformations in SE(2), as well as handling odometry ca
    - usage: include `rigid2d/diff_drive.hpp`
    - kinematics of a differential drive robot
 
-#### Nodes
+Nodes
 * `rigid2d_fake_turtle_node` in `fake_turtle.cpp`
 * `rigid2d_odometer_node` in `odometer.cpp`
 
@@ -52,7 +52,7 @@ After rotating clockwise and counterclockwise several times and stopping at the 
 ![rotation_screen](/images/portfolio-slam/F82screen.gif)
 ![rotation_turtle](/images/portfolio-slam/F82turtle.gif) -->
 
-#### Circle path test
+Circle path test
 After following a clockwise and counterclockwise circluar path several times and stopping at the initial position, the odometry location of the robot was (0.2667, 0.13376, -3.683e-03).     
 ![circle_screen](/images/portfolio-slam/F83screen.gif)
 ![circle_turtle](/images/portfolio-slam/F83turtle.gif)
@@ -65,7 +65,7 @@ The simulator simulates the robot kinematics and a sensor that detects the relat
 ### `nuslam` - Feature-based SLAM
 This package implements Feature-Based Kalman Filter SLAM for a turtlebot in the `nurtlesim` simulation. It also provides a library for handling the SLAM algorithm calculations for a differential drive robot. 
 
-#### Library implementation files
+Library implementation files
 - `nuslam_lib.cpp`
     - usage: include `nuslam/nuslam_lib.hpp`
     - Feature-based Kalman Filter SLAM calculation helper functions 
@@ -76,15 +76,13 @@ This package implements Feature-Based Kalman Filter SLAM for a turtlebot in the 
     - Circle fitting with circle regression
     - Circle classification
 
-#### Nodes
+Nodes
 - `nuslam_node` in `slam.cpp` - SLAM with known data association
 - `landmarks_node` in `landmarks.cpp` - circle fitting and classification
 - `nuslam_unknown_node` in `slam_unknown.cpp` - SLAM with unknown data association
 
-#### Demonstration
-
-### SLAM with known data association
-The robot was driven around in simulation such that all the landmarks were encountered during the run.
+Demonstration SLAM with known data association
+- The robot was driven around in simulation such that all the landmarks were encountered during the run.
 - ground truth landmarks are shown in white
 - landmarks detected by the sensor are shown in red
 - landmarks according to slam (the map) are shown in blue
@@ -92,9 +90,12 @@ The robot was driven around in simulation such that all the landmarks were encou
 - trajectory of the robot according to SLAM is shown in orange
 - trajectory of the robot according to odometry is shown in white
 - turtle (actual turtle position frame)       
+
 The result for default R and Q is shown:     
+
 Top view:        
 ![top_view](/images/portfolio-slam/top_view.png)
+
 Perspective view:        
 ![side_view](/images/portfolio-slam/side_view.png)
 
