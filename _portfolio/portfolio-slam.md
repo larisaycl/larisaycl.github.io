@@ -1,6 +1,6 @@
 ---
 title: "Feature-based Kalman Filter SLAM in ROS"
-excerpt: "ROS implementation of SLAM using an extended kalman filter<br/><img src='/images/portfolio-ukf/ukf-gt_vs_ukf.png'>"
+excerpt: "ROS implementation of SLAM using an extended kalman filter<br/><img src='/images/portfolio-slam/side_view.png'>"
 collection: portfolio
 ---
 
