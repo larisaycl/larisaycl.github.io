@@ -4,10 +4,10 @@ excerpt: "ROS implementation of SLAM using an extended kalman filter<br/><img sr
 collection: portfolio
 ---
 
-# Overview
+## Overview
 This project was done as a collection of homework assignments for ME 495 Sensing, Navigation, and Machine Learning For Robotics at Northwestern. The task was to build a several ROS packages to implement control and SLAM (simultaneous localization and mapping) for a turtlebot3 burger robot. The repo is not made available since this is class homework.
 
-# Package list
+## Package list
 This repository consists of several ROS packages. 
 * `nuturtle_description` - contains URDF files, meshes, and launch file for launching and displaying the turtlebot3 burger in rviz.
 * `rigid2d` - a package for odometry of a differential drive robot, with a library for rigid body transformations in SE(2),
@@ -16,12 +16,12 @@ This repository consists of several ROS packages.
 * `nurtlesim` - a package that provides a simulator for the turtlebot and SLAM in rviz
 * `nuslam` - a package that implements Feature-Based Kalman Filter SLAM for the turtlebot.
 
-# Description of packages
+## Description of packages
 
-## `rigid2d` - Rigid 2D transformation Library
+### `rigid2d` - Rigid 2D transformation Library
 A library for handling transformations in SE(2), as well as handling odometry calculations for a differential drive robot. See [this document](/files/diff_drive.pdf) for derivations of equations used in the `diff_drive.cpp` library implementation file.
 
-### Library implementation files 
+#### Library implementation files 
 - `rigid2d.cpp`
    - usage: include `rigid2d/rigid2d.hpp`
    - 2D rigid body transformations
@@ -29,12 +29,12 @@ A library for handling transformations in SE(2), as well as handling odometry ca
    - usage: include `rigid2d/diff_drive.hpp`
    - kinematics of a differential drive robot
 
-### Nodes
+#### Nodes
 * `rigid2d_fake_turtle_node` in `fake_turtle.cpp`
 * `rigid2d_odometer_node` in `odometer.cpp`
 
 
-## `nuturtle_robot` - turtlebot3 low-level controller
+### `nuturtle_robot` - turtlebot3 low-level controller
 This package provides functionality to interface with low-level commands on the turtlebot, as well as launch files to start basic nodes on the turtlebot to allow interfacing with ROS. 
 
 <!-- ### Pure translation test
@@ -52,20 +52,20 @@ After rotating clockwise and counterclockwise several times and stopping at the 
 ![rotation_screen](/images/portfolio-slam/F82screen.gif)
 ![rotation_turtle](/images/portfolio-slam/F82turtle.gif) -->
 
-### Circle path test
+#### Circle path test
 After following a clockwise and counterclockwise circluar path several times and stopping at the initial position, the odometry location of the robot was (0.2667, 0.13376, -3.683e-03).     
 ![circle_screen](/images/portfolio-slam/F83screen.gif)
 ![circle_turtle](/images/portfolio-slam/F83turtle.gif)
 
 
-## `nurtlesim` - simulator for turtlebot3 burger in tube world in rviz
+### `nurtlesim` - simulator for turtlebot3 burger in tube world in rviz
 This packages provides a simulator for the turtlebot and slam in rviz.
 The simulator simulates the robot kinematics and a sensor that detects the relative x, y positions of landmarks and a landmark id. Landmarks are modelled as tubes (approx 10cm diameter cylinders).
 
-## `nuslam` - Feature-based SLAM
+### `nuslam` - Feature-based SLAM
 This package implements Feature-Based Kalman Filter SLAM for a turtlebot in the `nurtlesim` simulation. It also provides a library for handling the SLAM algorithm calculations for a differential drive robot. 
 
-### Library implementation files
+#### Library implementation files
 - `nuslam_lib.cpp`
     - usage: include `nuslam/nuslam_lib.hpp`
     - Feature-based Kalman Filter SLAM calculation helper functions 
@@ -76,14 +76,14 @@ This package implements Feature-Based Kalman Filter SLAM for a turtlebot in the 
     - Circle fitting with circle regression
     - Circle classification
 
-### Nodes
+#### Nodes
 - `nuslam_node` in `slam.cpp` - SLAM with known data association
 - `landmarks_node` in `landmarks.cpp` - circle fitting and classification
 - `nuslam_unknown_node` in `slam_unknown.cpp` - SLAM with unknown data association
 
-### Demonstration
+#### Demonstration
 
-#### SLAM with known data association
+### SLAM with known data association
 The robot was driven around in simulation such that all the landmarks were encountered during the run.
 - ground truth landmarks are shown in white
 - landmarks detected by the sensor are shown in red
