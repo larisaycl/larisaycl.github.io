@@ -98,7 +98,7 @@ Top view:
 Perspective view:        
 ![side_view](/images/portfolio-slam/side_view.png)
 
----
+<!-- ---
 
 #### Slam with unknown data association
 The robot was driven around in simulation such that all the landmarks were encountered during the run.
@@ -115,4 +115,4 @@ A screencast of the robot driving around in the environment is shown:
 ![unknown_data_assoc_demo1](/images/portfolio-slam/slam_unknown_demo1.gif)
 
 A screencast of the robot driving around in the environment is shown:
-![unknown_data_assoc_demo2](/images/portfolio-slam/slam_unknown_demo2.gif)
+![unknown_data_assoc_demo2](/images/portfolio-slam/slam_unknown_demo2.gif) -->
