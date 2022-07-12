@@ -37,7 +37,7 @@ A library for handling transformations in SE(2), as well as handling odometry ca
 ## `nuturtle_robot` - turtlebot3 low-level controller
 This package provides functionality to interface with low-level commands on the turtlebot, as well as launch files to start basic nodes on the turtlebot to allow interfacing with ROS. 
 
-### Pure translation test
+<!-- ### Pure translation test
 After moving forwards and backwards several times and stopping at the initial position, the odometry location of the robot was (6.328e-04, 5.219e-03, 9.759e-04).   
 ![translation_screen](/images/portfolio-slam/F81screen.gif)
 ![translation_turtle](/images/portfolio-slam/F81turtle.gif)
@@ -50,7 +50,7 @@ The pure translation experiment was repeated, this time driving at maximum speed
 ### Pure rotation test
 After rotating clockwise and counterclockwise several times and stopping at the initial position, the odometry location of the robot was (9.491e-04, -1.930e-06, 2.018e-05).      
 ![rotation_screen](/images/portfolio-slam/F82screen.gif)
-![rotation_turtle](/images/portfolio-slam/F82turtle.gif)
+![rotation_turtle](/images/portfolio-slam/F82turtle.gif) -->
 
 ### Circle path test
 After following a clockwise and counterclockwise circluar path several times and stopping at the initial position, the odometry location of the robot was (0.2667, 0.13376, -3.683e-03).     
