@@ -41,4 +41,5 @@ When filtering is applied using the UKF, the simulated robot motion was much clo
 
 ## References
 [1] Thrun, S., Burgard, W., Fox, D. & Arkin, R. (2005). Probabilistic robotics. MIT Press.
+
 [2] Terejanu, G. A. (2011). Unscented kalman filter tutorial. University at Buffalo, Buffalo.
