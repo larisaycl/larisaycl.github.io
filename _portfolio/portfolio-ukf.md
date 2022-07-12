@@ -1,6 +1,6 @@
 ---
 title: "Unscented Kalman Filter"
-excerpt: "Unscented Kalman Filter for localization of a wheeled mobile robot<br/><img src='/images/gmmgmr.png'>"
+excerpt: "Unscented Kalman Filter for localization of a wheeled mobile robot<br/><img src='/images/portfolio-ukf/ukf-gt_vs_ukf.png'>"
 collection: portfolio
 ---
 

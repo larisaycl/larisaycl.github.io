@@ -1,6 +1,6 @@
 ---
 title: "A* Search for robot planning and navigation"
-excerpt: "A* Search in Python for wheeled mobile robot path planning<br/><img src='/images/astar/astar-coarse.png'>"
+excerpt: "A* Search in Python for wheeled mobile robot path planning<br/><img src='/images/portfolio-astar/astar-coarse.png'>"
 collection: portfolio
 ---
 
