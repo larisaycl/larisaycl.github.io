@@ -21,7 +21,7 @@ Research experience
   * Focus: Assistive robotics, human-machine interfaces
 
 * Jun 2019 - Dec 2019: Visiting Student Researcher
-  * Robotics Instutite, Carnegie Mellon University
+  * Robotics Institute, Carnegie Mellon University
   * Project focus: Detection and classification of rare traffic signs, by augmenting datasets with synthetic images to train deep learning models using Faster R-CNN and PyTorch
   <!-- * Supervisors: Dr John M. Dolan, Dr Christoph Mertz -->
 
