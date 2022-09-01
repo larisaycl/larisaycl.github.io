@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/icorr2022bias
 excerpt: 'Creating a custom interface to assistive device control mapping based on the design of a user’s bias profile'
 date: 2022-05-17
-venue: 'upcoming International Conference on Rehabilitation Robotics'
+venue: 'International Conference on Rehabilitation Robotics 2022, Rotterdam'
 paperurl: ''
 citation: 'Andrew Thompson, Larisa YC Loke, and Brenna Argall. "Control interface remapping for bias-aware assistive teleoperation." arXiv preprint arXiv:2205.08489, 2022. '
 ---
