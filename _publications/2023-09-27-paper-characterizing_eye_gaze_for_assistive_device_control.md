@@ -5,8 +5,9 @@ permalink: /publication/icorr2023characterizing_eyegaze
 excerpt: 'Open source data gathering and assessment tasks for individualized characterization of eye gaze interface use.'
 date: 2023-09-27
 venue: 'International Conference on Rehabilitation Robotics 2023, Singapore'
-paperurl: ' '
-citation: 'Larisa YC Loke, Demiana R. Barsoum, Todd D. Murphey and Brenna D. Argall. "Characterizing Eye Gaze for Assistive Device Control." To appear in the IEEE International Conference on Rehabilitation Robotics (ICORR), 2023. '
+paperurl: ''
+citation: 'Loke, L. Y. C., Barsoum, D., Murphey, T., & Argall, B. (2023, September). Characterizing Eye Gaze for Assistive Device Control. To appear in the 2023 International Conference on Rehabilitation Robotics (ICORR). IEEE.'
+
 ---
 Abstract
 ======

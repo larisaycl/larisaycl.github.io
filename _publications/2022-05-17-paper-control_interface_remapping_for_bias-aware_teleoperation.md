@@ -6,7 +6,8 @@ excerpt: 'Creating a custom interface to assistive device control mapping based 
 date: 2022-05-17
 venue: 'International Conference on Rehabilitation Robotics 2022, Rotterdam'
 paperurl: ''
-citation: 'Andrew Thompson, Larisa YC Loke, and Brenna Argall. "Control interface remapping for bias-aware assistive teleoperation." arXiv preprint arXiv:2205.08489, 2022. '
+citation: 'Thompson, A.*, Loke, L. Y. C.*, & Argall, B. (2022, July). Control interface remapping for bias-aware assistive teleoperation. In 2022 International Conference on Rehabilitation Robotics (ICORR) (pp. 1-6). IEEE.'
+
 ---
 Abstract
 ======
