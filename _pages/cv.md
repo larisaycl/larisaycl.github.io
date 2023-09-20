@@ -18,7 +18,7 @@ Research experience
 ======
 * Sep 2020 - Present: Ph.D. Student
   * argallab, Northwestern University
-  * Focus: Assistive robotics, human-machine interfaces
+  * Focus: Assistive robotics, human-robot interfaces
 
 * Jun 2019 - Dec 2019: Visiting Student Researcher
   * Robotics Institute, Carnegie Mellon University
