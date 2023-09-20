@@ -2,7 +2,7 @@
 title: "Characterizing Eye Gaze for Assistive Device Control"
 collection: publications
 permalink: /publication/icorr2023characterizing_eyegaze
-excerpt: 'Open source data gathering and assessment tasks for characterization of individuals' eye gaze interface use.'
+excerpt: 'Open source data gathering and assessment tasks for individualized characterization of eye gaze interface use.'
 date: 2023-09-27
 venue: 'International Conference on Rehabilitation Robotics 2023, Singapore'
 paperurl: ' '
