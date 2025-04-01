@@ -6,7 +6,7 @@ excerpt: 'Open source data gathering and assessment tasks for individualized cha
 date: 2023-09-27
 venue: 'International Conference on Rehabilitation Robotics 2023, Singapore'
 paperurl: ''
-citation: 'Loke, L. Y. C., Barsoum, D., Murphey, T., & Argall, B. (2023, September). Characterizing Eye Gaze for Assistive Device Control. To appear in the 2023 International Conference on Rehabilitation Robotics (ICORR). IEEE.'
+citation: 'Loke, L. YC., Barsoum, D. R., Murphey, T. D., & Argall, B. D. (2023, September). Characterizing eye gaze for assistive device control. In 2023 International Conference on Rehabilitation Robotics (ICORR) (pp. 1-6). IEEE.'
 
 ---
 Abstract
