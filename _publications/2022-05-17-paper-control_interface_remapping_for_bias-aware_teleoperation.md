@@ -28,4 +28,7 @@ improvement in the reachability of the device control space.
 This effect was especially pronounced for individuals who had
 a more limited reachable space.
 
-[Download paper here](https://arxiv.org/pdf/2205.08489.pdf)
+[Download paper here](https://arxiv.org/pdf/2205.08489.pdf) &middot; [Lab-hosted copy](https://www.argallab.northwestern.edu/files/2022/06/22icorr_thompson.pdf)
+
+<!-- TODO: add video here, e.g. -->
+<!-- [Watch video](URL) -->

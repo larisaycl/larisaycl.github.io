@@ -22,4 +22,7 @@ presented, offering insights into maximizing the potential of eye
 gaze for assistive device control. These findings can inform the
 development of continuous control paradigms using eye gaze.
 
-[Download paper here](https://bpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/5/1812/files/2023/07/23icorr_loke.pdf)
+[Download paper here](https://www.argallab.northwestern.edu/files/2023/07/23icorr_loke.pdf)
+
+<!-- TODO: add video here, e.g. -->
+<!-- [Watch video](URL) -->

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Larisa Loke"  
 title_separator          : "-"
 name                     : &name "Larisa Loke"
-description              : &description "PhD Student at Northwestern University"
+description              : &description "Postdoctoral Researcher at Northwestern University, working on human-AI co-adaptation and personalization for assistive robotics"
 url                      : https://larisaycl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "larisaycl/larisaycl.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Larisa Loke"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Student at Northwestern University, interested in assistive and rehabilitation robotics"
-  location         : "Chicago, IL, USA"
-  employer         :
+  bio              : "Postdoctoral Researcher at Northwestern University & Shirley Ryan AbilityLab, working on human-AI co-adaptation and personalization for assistive robotics."
+  location         : "Evanston, IL, USA"
+  employer         : "Northwestern University & Shirley Ryan AbilityLab"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=ZHeTFSAAAAAJ&hl=en&oi=ao"
+  email            : "larisaycl@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "larisaycl"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "https://www.linkedin.com/in/larisa-loke/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

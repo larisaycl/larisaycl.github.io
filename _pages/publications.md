@@ -12,5 +12,7 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  <article class="archive__item">
+    <h2 class="archive__item-title"><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a></h2>
+  </article>
 {% endfor %}
